@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  padding: 50px;
+}
+
+h2 {
+  padding: 25px;
+}
+
+h2, li {
+  padding-left: 50px;
+}
+
+.btn {
+  padding-left: 50px;
+}
+
+body {
+  padding-left: 50px;
+}
